@@ -4,6 +4,8 @@
 
 <!-- badges: end -->
 
+<img src="correlation.png" width = "300" />
+
 The goal of ryx is to create a correlation table between a dependent variable y and a vector of independent variables x which return a correlation table of class ryx. Additionally, there are specific print.ryx, plot.ryx, and summary.ryx for the class ryx table.
 
 ## Installation
